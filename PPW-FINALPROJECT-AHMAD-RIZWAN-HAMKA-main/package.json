@@ -1,0 +1,16 @@
+{
+  "name": "ppw-finalproject-ahmad-rizwan-hamka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "browser-sync start --proxy \"localhost/PPW-FINALPROJECT-AHMAD-RIZWAN-HAMKA\" --files \"**/*.php, **/*.css, **/*.js, **/*.html\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "browser-sync": "^3.0.4"
+  }
+}

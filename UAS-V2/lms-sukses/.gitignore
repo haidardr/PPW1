@@ -1,0 +1,9 @@
+# Mengabaikan file koneksi database lokal
+includes/config.php
+
+# Mengabaikan folder konfigurasi teks editor lokal
+.vscode/
+.idea/
+
+# Mengabaikan file log sampah sistem
+*.log
